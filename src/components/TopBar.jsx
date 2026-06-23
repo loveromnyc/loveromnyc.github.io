@@ -75,7 +75,7 @@ const TopBar = () => {
           <div className="BarContent">
             <div className="TextContainer">
               <Typography variant="h4" className="Title">
-                jstro.io
+                loverom.nyc
               </Typography>
             </div>
           </div>

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `jstro.io`,
-    siteUrl: `https://jstro.io`
+    title: `loverom.nyc`,
+    siteUrl: `https://loverom.nyc`
   },
   plugins: ["gatsby-plugin-sass", "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
